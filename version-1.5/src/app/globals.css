@@ -1,0 +1,118 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@layer base {
+  :root {
+    --wood-primary: #9a5c35;
+    --wood-dark: #573127;
+    --cream-bg: #f5efe6;
+    --paper: #faf6f1;
+    --ink: #2c1810;
+    --accent: #b85c38;
+  }
+
+  body {
+    @apply bg-craft-bg text-craft-ink font-sans;
+    overflow-x: hidden;
+  }
+
+  ::selection {
+    background-color: rgba(184, 92, 56, 0.3);
+  }
+}
+
+@layer components {
+  .wood-card {
+    @apply bg-cream-50 border border-wood-200 rounded-lg shadow-wood;
+    background-image: 
+      linear-gradient(135deg, rgba(154, 92, 53, 0.03) 0%, transparent 50%),
+      linear-gradient(225deg, rgba(154, 92, 53, 0.02) 0%, transparent 50%);
+  }
+
+  .wood-panel {
+    @apply bg-gradient-to-br from-cream-100 to-cream-50 border border-wood-200 rounded-xl;
+    box-shadow: 
+      inset 0 1px 0 rgba(255, 255, 255, 0.5),
+      0 4px 20px -4px rgba(88, 49, 39, 0.2);
+  }
+
+  .craft-button {
+    @apply inline-flex items-center gap-2 px-6 py-3 bg-wood-600 text-cream-50 rounded-lg
+           font-medium transition-all duration-300 hover:bg-wood-700 hover:shadow-wood-lg
+           active:scale-95;
+  }
+
+  .craft-button-outline {
+    @apply inline-flex items-center gap-2 px-6 py-3 border-2 border-wood-400 text-wood-700 
+           rounded-lg font-medium transition-all duration-300 hover:bg-wood-50 hover:border-wood-500;
+  }
+
+  .section-heading {
+    @apply font-serif text-3xl md:text-4xl lg:text-5xl font-bold text-wood-900;
+  }
+
+  .section-subheading {
+    @apply font-sans text-lg text-wood-600 max-w-2xl;
+  }
+
+  .pin-tack {
+    @apply w-4 h-4 rounded-full bg-gradient-to-br from-red-400 to-red-600 
+           shadow-[0_2px_4px_rgba(0,0,0,0.3),inset_0_1px_2px_rgba(255,255,255,0.4)];
+  }
+
+  .tape {
+    @apply absolute -top-2 left-1/2 -translate-x-1/2 w-16 h-6 
+           bg-gradient-to-r from-yellow-100/80 via-yellow-50/90 to-yellow-100/80 
+           border border-yellow-200/50 rotate-[-2deg] opacity-70;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .wood-texture {
+    background-image: url("data:image/svg+xml,%3Csvg width='100' height='20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 10 Q25 5 50 10 T100 10' stroke='%239a5c3510' fill='none' stroke-width='0.5'/%3E%3C/svg%3E");
+  }
+
+  .paper-lines {
+    background-image: repeating-linear-gradient(
+      transparent,
+      transparent 31px,
+      rgba(154, 92, 53, 0.08) 31px,
+      rgba(154, 92, 53, 0.08) 32px
+    );
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f0e6d6;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #be8a55;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #9a5c35;
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Canvas container */
+.canvas-container canvas {
+  touch-action: none;
+}
