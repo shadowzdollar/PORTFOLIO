@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST='{"../node_modules/@react-three/drei/core/FaceLandmarker.js -> @mediapipe/tasks-vision":{"id":null,"files":[]},"components/CenteredBook.tsx -> @/components/DevScene3D":{"id":6526,"files":["static/chunks/b536a0f1.a0788c622f2cdcb9.js","static/chunks/10.cda9c1a437ecea7a.js","static/chunks/526.997098c8e0d4f473.js"]}}';
