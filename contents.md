@@ -210,9 +210,12 @@ My long-term objective is to become a **professional AI/ML engineer** and contin
 
 Projects are where my learning becomes tangible.
 
-Instead of keeping ideas on paper, I prefer to turn them into systems that can eventually solve real problems.
+Instead of keeping ideas on paper, I prefer to turn them into systems that can solve real problems.
 
-Some of the projects that represent this part of my journey are:
+Two projects represent this part of my journey, both aimed at problems in African trade and finance:
+
+1. **VUKA** — Cross-Border Payments for Africa
+2. **SealChain** — Digital Trade Documentation
 
 ---
 
@@ -263,44 +266,6 @@ Building the software system and exploring how technology can simplify complex p
 ### Status
 
 **Under development.**
-
----
-
-# UMURINZI
-
-## Technology With a Purpose
-
-**UMURINZI** is another project within my development journey.
-
-It represents my broader approach to software development: finding meaningful problems and exploring how technology can be used to address them.
-
-### Status
-
-**Under development.**
-
-More details and the public release will come as development progresses.
-
----
-
-# LEGACIA-AI
-
-## Where My AI Journey Began
-
-Before the larger systems I am working on today, there was **Legacia-AI**.
-
-It was my first major project involving an AI chatbot.
-
-For me, Legacia-AI represents an important point in my journey because it moved AI from something I was simply learning about into something I was actually building.
-
-It was not the final destination.
-
-It was the beginning.
-
-It taught me that building intelligent software requires more than writing code. It requires understanding the problem, experimenting, failing, learning, and continuously improving.
-
-Looking back at my first AI project from where I am now is a reminder of how much there is still to learn.
-
-And that is exactly what makes the journey exciting.
 
 ---
 
@@ -537,7 +502,7 @@ Java Backend Engineering · AI/ML · Software Development
 github.com/shadowzdollar
 
 **Email:**
-[Add complete professional email]
+shadowzdollar@gmail.com
 
 ---
 
