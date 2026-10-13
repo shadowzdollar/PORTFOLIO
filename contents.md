@@ -8,525 +8,124 @@
 
 ---
 
-# PROLOGUE
+# 01 · ABOUT
 
 ## More Than Code
 
-I am IGIRANEZA Joseph, known as **Mr Shadow**, a developer from Rwanda with a passion for building technology that solves real problems.
+I am IGIRANEZA Joseph, known as **Mr Shadow**, a developer from Rwanda who builds technology that solves real problems.
 
-My journey started in high school, but it quickly became more than learning how to write code. I became interested in understanding how technology works, how systems are designed, and how software can be used to address problems in society.
+I started programming in **S4, in 2025**, moving from HTML, CSS, JavaScript, PHP and C to C++, Python and Java.
 
-Today, I am studying at **Rwanda Coding Academy** while simultaneously building projects and expanding my engineering skills.
+Today I study at **Rwanda Coding Academy**, keeping **87+ marks across my subjects** while building projects outside the classroom.
 
-My primary interests are **Java backend development and AI/ML engineering**, with a particular interest in understanding and training large language models from the ground up.
+### How I work
 
-I am still learning. Still building. Still experimenting.
-
-And this book is a snapshot of that journey.
+Problem → Architecture → Implementation → Testing → Iteration
 
 ---
 
-# CHAPTER 01
+# 02 · WHAT I DO
 
-# THE BEGINNING
+## Backend & AI
 
-## Where It Started
+### Java Backend Engineering
 
-My programming journey began in **S4, in 2025**.
+APIs, business logic, data and application architecture: the reliability, performance and scalability of the systems behind a product.
 
-I didn't start with a perfectly defined career plan. I started with curiosity.
+### AI / ML Engineering
 
-I wanted to understand how software was created, how computers could be instructed to solve problems, and how technology could be transformed from an idea into something people could actually use.
+Understanding intelligent systems beyond calling an API, down to training large language models from scratch:
 
-I began exploring:
+Data → Tokenization → Architecture → Training → Optimization → Inference
 
-**HTML. CSS. JavaScript. PHP. C.**
-
-Then the journey continued.
-
-**C++. Python. Java.**
-
-Along the way, I explored intelligent robotics, 3D modeling, networking, cybersecurity, mathematics, physics, and other areas of technology.
-
-Every new subject gave me another way of looking at engineering.
+**Goal:** Senior Java backend engineer and professional AI/ML engineer.
 
 ---
 
-# CHAPTER 02
-
-# WHY TECHNOLOGY?
-
-## I Like Building Things
-
-The reason I chose technology is simple:
-
-**I enjoy coding, and I enjoy solving problems.**
-
-But programming became more meaningful when I realized that technology isn't only about computers.
-
-It can be a tool for solving problems in society.
-
-A piece of software can simplify a complicated process.
-
-A well-designed system can connect people.
-
-A machine-learning model can discover patterns hidden inside data.
-
-A backend system can become the infrastructure behind an entire product.
-
-That is what attracted me to engineering.
-
-I don't want to learn technology simply to say that I know it.
-
-**I want to use it to build.**
-
----
-
-# CHAPTER 03
-
-# BECOMING AN ENGINEER
-
-## From Learning to Building
-
-At some point, learning technologies wasn't enough anymore.
-
-I wanted to build systems.
-
-I wanted to understand what happens behind an interface.
-
-I wanted to understand how applications communicate, how data moves through systems, how backend architectures are designed, and how intelligent models can be created.
-
-This changed the way I approached development.
-
-I began focusing more deeply on:
-
-* Software engineering
-* Backend development
-* Java
-* Python
-* Artificial intelligence
-* Machine learning
-* Systems and networking
-* Problem solving
-* Building real projects
-
-My goal became bigger than simply becoming someone who can code.
-
-**I want to become an engineer who understands what he builds.**
-
----
-
-# CHAPTER 04
-
-# THE ACADEMY
-
-## Rwanda Coding Academy
-
-I am currently studying at **Rwanda Coding Academy**, preparing to graduate.
-
-My education has exposed me to much more than programming.
-
-My studies include areas such as:
-
-* Software development
-* Advanced mathematics
-* Physics
-* Networking
-* Cybersecurity
-* Intelligent robotics
-* Technical English
-* Computer science and technology
-
-Academics have also taught me something important:
-
-Engineering requires discipline.
-
-Currently, I maintain **87+ marks across my subjects**, while continuing to work on personal projects outside the classroom.
-
-For me, school and personal development are not separate journeys.
-
-They are part of the same one.
-
----
-
-# CHAPTER 05
-
-# THE CRAFT
-
-## Java Backend Engineering
-
-One of the areas I enjoy most is **Java backend development**.
-
-I like working beyond what users see.
-
-The interface may be what people interact with, but the backend is where much of the system's logic lives.
-
-I enjoy thinking about:
-
-* APIs
-* Business logic
-* Data
-* Application architecture
-* System communication
-* Performance
-* Reliability
-* Scalability
-
-Java has become one of my primary tools for this journey.
-
-My long-term goal is to become a **senior Java backend engineer** capable of designing and building robust systems.
-
----
-
-# CHAPTER 06
-
-# THE INTELLIGENT SIDE
-
-## AI / ML Engineering
-
-My other major area of focus is **AI/ML engineering**.
-
-I am particularly interested in understanding intelligent systems beyond simply consuming them through APIs.
-
-One area that strongly interests me is **training large language models from scratch**.
-
-I want to understand what happens underneath the interface:
-
-**Data → Tokenization → Architecture → Training → Optimization → Model → Inference**
-
-The deeper I go into AI/ML, the more I realize that the most interesting part isn't simply using a model.
-
-It is understanding how the model becomes capable of doing what it does.
-
-My long-term objective is to become a **professional AI/ML engineer** and continue pushing my understanding of intelligent systems.
-
----
-
-# CHAPTER 07
-
-# THE PROJECTS
-
-## Building Ideas Into Systems
-
-Projects are where my learning becomes tangible.
-
-Instead of keeping ideas on paper, I prefer to turn them into systems that can solve real problems.
-
-Two projects represent this part of my journey, both aimed at problems in African trade and finance:
-
-1. **VUKA** — Cross-Border Payments for Africa
-2. **SealChain** — Digital Trade Documentation
-
----
-
-# VUKA
+# 03 · PROJECT 1 — VUKA
 
 ## Cross-Border Payments for Africa
 
-**VUKA Crossborder Africa** is a project focused on the problem of **cross-border payments across Africa**.
+**Status:** Live
 
-Africa is a continent of enormous economic potential, but moving value across borders can still involve complexity and friction.
+**VUKA** tackles **cross-border payments across Africa**, where moving value between countries still involves complexity and friction.
 
-VUKA is my attempt to explore how technology can contribute to making cross-border transactions simpler and more accessible.
+It gives traders wallets, invoices and cross-border settlements, and gives operators reconciliation and risk controls.
 
-### The idea
+**My focus:** Software engineering, system development, and turning the concept into a usable digital platform.
 
-Build technology around the movement of value across African borders.
-
-### My focus
-
-Software engineering, system development, and turning the concept into a usable digital platform.
-
-### Status
-
-**Under development.**
-
-More development and public releases are coming.
+**Live:** https://vuka-trade.vercel.app
 
 ---
 
-# SEALCHAIN
+# 04 · PROJECT 2 — SEALCHAIN
 
 ## Digital Trade Documentation
 
-**SealChain** focuses on **trade documentation in Africa**.
+**Status:** In development
 
-International and cross-border trade depends heavily on documentation, and inefficient document processes can create unnecessary complexity.
+**SealChain** focuses on **trade documentation in Africa**. Cross-border trade depends heavily on documents, and inefficient document processes create unnecessary complexity.
 
-SealChain explores how technology can improve the way trade documentation is handled.
+**The idea:** A technology-driven approach to African trade documentation.
 
-### The idea
+**My focus:** Building the software system and simplifying complex processes.
 
-Create a technology-driven approach to African trade documentation.
-
-### My focus
-
-Building the software system and exploring how technology can simplify complex processes.
-
-### Status
-
-**Under development.**
+**Site:** https://sealchain-doc.vercel.app
 
 ---
 
-# CHAPTER 08
+# 05 · EXPERIENCE
 
-# THE COMPETITIONS
-
-## Taking Ideas Beyond the Classroom
-
-Learning becomes different when someone else is evaluating what you build.
-
-I have participated in several technology competitions and hackathons.
+## Competitions
 
 ### RCA Hackathon
 
-I participated in the **Rwanda Coding Academy Hackathon** and reached the **final stage**.
+Rwanda Coding Academy Hackathon: reached the **final stage**.
 
 ### BNR Hackathon
 
-I also participated in the **BNR Hackathon**, reaching **Stage 3**.
+Reached **Stage 3**.
 
-I did not finish first.
+### Youth Africa · Intelligent Robotics
 
-But the result was still valuable.
+Took my engineering beyond conventional software.
 
-Competition taught me that building something isn't enough.
-
-You have to communicate the idea, work under pressure, make decisions quickly, and continue even when the outcome isn't what you wanted.
-
-### Youth Africa — Intelligent Robotics
-
-I also participated in **Youth Africa in Intelligent Robotics**, expanding my experience beyond conventional software development.
-
-Each experience added another layer to my understanding of engineering.
+Competing taught me to communicate an idea, work under pressure and make decisions quickly.
 
 ---
 
-# CHAPTER 09
+# 06 · TOOLBOX
 
-# FAILURE
-
-## The Part Nobody Puts on the Résumé
-
-My biggest challenge has not been learning technology.
-
-It has been **time**.
-
-I have had many goals I wanted to accomplish, and sometimes there simply wasn't enough time to accomplish everything at the speed I wanted.
-
-There were failures.
-
-There were unfinished goals.
-
-There were moments when things didn't work.
-
-But failure taught me something that success could not:
-
-**Persistence.**
-
-I learned that failing at something does not mean the goal is impossible.
-
-Sometimes it means the approach needs to change.
-
-Sometimes it means more time is needed.
-
-Sometimes it simply means you need to try again.
-
-I kept going.
-
----
-
-# CHAPTER 10
-
-# HOW I THINK
-
-## Technology Is a Tool
-
-I don't see programming as the final destination.
-
-Programming is a tool.
-
-The real objective is solving problems.
-
-A developer can write thousands of lines of code and still solve the wrong problem.
-
-For me, good engineering begins with understanding the problem.
-
-Then comes the architecture.
-
-Then the implementation.
-
-Then testing, improvement, and iteration.
-
-**Code is the implementation of an idea.**
-
-The quality of the idea and the quality of the engineering behind it both matter.
-
----
-
-# CHAPTER 11
-
-# MY TOOLBOX
-
-## Technologies I Work With
+## Skills & Tools
 
 ### Languages
 
-* Java
-* Python
-* C
-* C++
-* JavaScript
-* HTML
-* CSS
-* PHP
+Java · Python · C · C++ · JavaScript · HTML · CSS · PHP
 
-### Primary Focus
+### Primary focus
 
-**Java Backend Development**
+Java backend development · AI/ML engineering
 
-**AI/ML Engineering**
+### Also studied
 
-### Additional Areas
-
-* Networking
-* Cybersecurity
-* Intelligent Robotics
-* 3D Modeling
-* Mathematics
-* Physics
-* Software Engineering
-
-My toolbox will continue to grow.
-
-I don't measure my progress by how many technologies I can list.
-
-I measure it by what I can build with them.
+Networking · Cybersecurity · Intelligent robotics · 3D modeling · Mathematics · Physics
 
 ---
 
-# CHAPTER 12
-
-# WHAT COMES NEXT
-
-## The Journey Isn't Finished
-
-I am still at the beginning.
-
-There are systems I haven't built yet.
-
-Technologies I haven't mastered yet.
-
-Problems I haven't solved yet.
-
-And that is exactly how I want it.
-
-My next stage is about going deeper.
-
-I want to continue developing my skills in:
-
-**Java backend engineering**
-
-and
-
-**AI/ML engineering.**
-
-I want to become a senior Java backend engineer and a professional AI/ML expert.
-
-I also want to continue building products rather than only studying them.
-
-The projects I have today are not the end of my portfolio.
-
-They are the beginning of a much larger body of work.
-
----
-
-# EPILOGUE
-
-## Still Building
-
-My story isn't about having everything figured out.
-
-It is about starting, learning, failing, adapting, and continuing.
-
-I started programming in high school.
-
-I explored different technologies.
-
-I entered competitions.
-
-I built projects.
-
-I reached finals.
-
-I failed to win some competitions.
-
-I learned.
-
-I kept building.
-
-Today, I am studying at Rwanda Coding Academy while developing projects and preparing for the next stage of my engineering journey.
-
-Tomorrow, there will be new systems.
-
-New ideas.
-
-New failures.
-
-New lessons.
-
-And hopefully, technology that makes a real difference.
-
-**This book is not the story of where I ended.**
-
-**It is the record of where I began.**
-
----
-
-# CONNECT
+# 07 · CONTACT
 
 ## Let's Build Something
 
 If you want to talk about software, AI/ML, backend engineering, technology, or a project worth building, I'd be happy to connect.
 
-### IGIRANEZA Joseph
+**GitHub:** github.com/shadowzdollar
 
-**Mr Shadow**
+**Email:** shadowzdollar@gmail.com
 
-**Developer**
-
-Java Backend Engineering · AI/ML · Software Development
-
-**GitHub:**
-github.com/shadowzdollar
-
-**Email:**
-shadowzdollar@gmail.com
+**Repositories:** github.com/shadowzdollar?tab=repositories
 
 ---
-
-FIND ME
-
-The book ends here. The journey doesn't.
-
-GitHub — Explore what I build
-LinkedIn — Follow my professional journey
-Instagram — See the person behind the code
-Email — Start a conversation
-Other links — Projects, experiments & more
-
-IGIRANEZA Joseph · Mr Shadow
 
 ## THE NEXT PAGE IS STILL BEING WRITTEN.
 
 **And I'm the one writing it.**
-
-
-
-
-vuka link: vuka-trade.vercel.app
-
-
-
-
