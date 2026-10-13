@@ -1,7 +1,5 @@
 # IGIRANEZA Joseph
 
-## MR SHADOW
-
 ### Developer
 
 **Java Backend Engineering · AI/ML · Software Development**
@@ -12,7 +10,7 @@
 
 ## More Than Code
 
-I am IGIRANEZA Joseph, known as **Mr Shadow**, a developer from Rwanda who builds technology that solves real problems.
+I am **IGIRANEZA Joseph**, a developer from Rwanda who builds technology that solves real problems.
 
 I started programming in **S4, in 2025**, moving from HTML, CSS, JavaScript, PHP and C to C++, Python and Java.
 

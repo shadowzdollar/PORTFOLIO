@@ -510,7 +510,7 @@ html:has(.preloader:not(.is-done)) { overflow: hidden; }
   color: var(--gold);
   animation: pl-fade 0.8s 0.25s ease-out both;
 }
-.pl-alias { margin-top: 2px; font-family: var(--hand); font-size: 44px; line-height: 1.1; animation: pl-fade 0.8s 0.4s ease-out both; }
+.pl-alias { margin-top: 2px; font-family: var(--hand); font-size: clamp(32px, 9vw, 44px); white-space: nowrap; line-height: 1.1; animation: pl-fade 0.8s 0.4s ease-out both; }
 .pl-bar { position: relative; width: 140px; height: 1px; margin-top: 22px; overflow: hidden; background: rgba(201, 168, 106, 0.25); }
 .pl-bar span { position: absolute; inset: 0; width: 40%; background: var(--gold); animation: pl-load 1.3s ease-in-out infinite; }
 .pl-note { margin-top: 12px; font-family: var(--serif); font-style: italic; font-size: 14px; opacity: 0.55; }
