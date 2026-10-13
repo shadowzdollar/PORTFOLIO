@@ -68,7 +68,7 @@ It gives traders wallets, invoices and cross-border settlements, and gives opera
 
 **My focus:** Building the software system and simplifying complex processes.
 
-**Site:** https://sealchain-doc.vercel.app
+**Site:** https://sealchain.vercel.app
 
 ---
 
